@@ -1,5 +1,6 @@
 # scoped-store-todo-demo-wod
 A to-do implementation using ScopedStore without TypeScript and decorations.
+
 If you want see another to-do implementation using TypeScript and decorations, 
 please check [scoped-store-todo-demo-wod](https://github.com/sungjin70/scoped-store-todo-demo) repository.
 
